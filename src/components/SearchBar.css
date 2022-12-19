@@ -1,0 +1,19 @@
+.form-input-search-bar{
+    text-align: center;
+    background: white;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-submit-search{
+    background: rgb(43, 103, 168);
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 4px;
+}
